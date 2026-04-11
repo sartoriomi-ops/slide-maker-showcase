@@ -2,8 +2,6 @@
 
 **Multi-brand Instagram carousel and post generator — single HTML file deployed to Vercel.**
 
-🔗 **Live demo:** [ai-workflow-hub-ten.vercel.app](https://ai-workflow-hub-ten.vercel.app)
-
 ---
 
 ## What it does
