@@ -80,7 +80,7 @@ Slide Maker is being upgraded to a full visual content studio. Planned features:
 | **New modes** | URL-to-carousel, paste-text-to-carousel, PDF and video export |
 | **UI overhaul** | Redesigned interface with panel layout and filmstrip navigation |
 
-> v3 is in active planning. Build sessions start soon.
+> v3 is in active development. Chunked build sessions are in progress in the slide-maker-v3 repo.
 
 ---
 
