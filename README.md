@@ -66,7 +66,7 @@ Designing carousels manually took hours per post across three content brands. Sl
 
 ---
 
-## 🚀 Coming in v3
+## 🚀 Coming in v4
 
 Slide Maker is being upgraded to a full visual content studio. Planned features:
 
@@ -80,7 +80,7 @@ Slide Maker is being upgraded to a full visual content studio. Planned features:
 | **New modes** | URL-to-carousel, paste-text-to-carousel, PDF and video export |
 | **UI overhaul** | Redesigned interface with panel layout and filmstrip navigation |
 
-> v3 is in active planning. Build sessions start soon.
+> v4 is in active planning. Build sessions start soon.
 
 ---
 
